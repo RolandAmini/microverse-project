@@ -17,7 +17,8 @@ body {
     font-size: 1.6rem;
     color: #333;
     margin: 0;
-    text-align: center;
+    background-color: #eee;
+
     
     
     
@@ -26,6 +27,18 @@ body {
 html {
     font-size: 10px;
 }
-li {
-    display: inline-block;
+
+
+.banner {
+    
+    text-align: center;
+    background-color: white;
+}
+.tribute-info {
+    max-width: 600px;
+    margin: 0px auto;
+}
+footer {
+    text-align: center;
+
 }
